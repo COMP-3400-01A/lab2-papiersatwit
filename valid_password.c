@@ -4,6 +4,7 @@
 
 /**
  * TODO: Describe what the function does
+ * ensures password specifications/limitations
  */
 bool valid_password(const char* s) {
     if (s == NULL) {
